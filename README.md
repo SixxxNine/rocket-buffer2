@@ -1,6 +1,6 @@
 # Simple MTA Fetch DATA
 
-Esse sistema faz uma requisisão de dado na API de um usuário do github.
+Esse sistema faz uma requisição de dado na API de um usuário do github.
 
 ## Task List
 
